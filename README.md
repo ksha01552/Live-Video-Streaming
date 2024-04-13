@@ -1,3 +1,5 @@
 # Live-Video-Streaming
-Live-Video Streaming with python socket programming\n
+Live-Video Streaming with python socket programming
+
+
 Run python3 server.py and python3 client.py
